@@ -1301,3 +1301,20 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.22-18.04.52:016][139]LogFileHelpers: Saving map 'MainMap' took 0.081
 [2022.10.22-18.04.52:048][139]AssetCheck: New page: Asset Save: MainMap
 [2022.10.22-18.04.52:048][139]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2022.10.22-18.14.52:463][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.10.22-18.14.52:466][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Unreal/warehouse-wreckage/WarehouseWreckage/Saved/Autosaves/Game/MainMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.22-18.14.52:488][113]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainMap_Auto2
+[2022.10.22-18.14.52:488][113]LogSavePackage: Moving 'E:/Unreal/warehouse-wreckage/WarehouseWreckage/Saved/MainMap_Auto26A2D3D094906BDA5B9E6239E383E6B32.tmp' to 'E:/Unreal/warehouse-wreckage/WarehouseWreckage/Saved/Autosaves/Game/MainMap_Auto2.umap'
+[2022.10.22-18.14.52:498][113]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainMap' took 0.077
+[2022.10.22-18.14.52:498][113]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2022.10.22-18.16.30:675][622]BlueprintLog: New page: Collapse to Function
+[2022.10.22-18.19.00:780][686]LogEditorTransaction: Undo Move Node
+[2022.10.22-18.19.02:766][778]LogEditorTransaction: Undo Delete current selection
+[2022.10.22-18.19.54:013][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Unreal/warehouse-wreckage/WarehouseWreckage/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.22-18.19.54:062][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.22-18.19.54:090][294]LogSavePackage: Moving output files for package: /Game/MainMap
+[2022.10.22-18.19.54:090][294]LogSavePackage: Moving 'E:/Unreal/warehouse-wreckage/WarehouseWreckage/Saved/MainMapBAC3FF3F41108FCB04A629A68F0528BC.tmp' to 'E:/Unreal/warehouse-wreckage/WarehouseWreckage/Content/MainMap.umap'
+[2022.10.22-18.19.54:105][294]LogFileHelpers: No new changes to save!
+[2022.10.22-18.19.54:105][294]LogFileHelpers: Saving map 'MainMap' took 0.093
+[2022.10.22-18.19.54:122][294]AssetCheck: New page: Asset Save: MainMap
+[2022.10.22-18.19.54:122][294]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
