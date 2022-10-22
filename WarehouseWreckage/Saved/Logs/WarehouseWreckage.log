@@ -3521,3 +3521,72 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.21-21.43.52:455][861]LogFileHelpers: No new changes to save!
 [2022.10.21-21.43.52:478][861]AssetCheck: New page: Asset Save: Minimal_Default
 [2022.10.21-21.43.52:478][861]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.10.21-22.43.39:958][649]LogDerivedDataCache: C:/Users/Ali/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.146 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-23.43.40:229][410]LogDerivedDataCache: C:/Users/Ali/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.147 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.22-00.40.55:421][675]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers / Headphones (Realtek Audio), InstanceID=1
+[2022.10.22-00.40.55:421][675]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=355192
+[2022.10.22-00.40.55:757][675]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{01b51d29-6cbc-4880-acf0-b8ed07dd9b6e}, Name=Speakers / Headphones (Realtek Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=281.69
+[2022.10.22-00.40.55:757][675]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.10.22-00.40.55:759][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.22-00.41.29:965][777]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2022.10.22-00.41.29:965][777]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2022.10.22-00.41.41:934][923]LogSlate: Window 'New Level' being destroyed
+[2022.10.22-00.41.41:953][923]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.22-00.41.41:962][923]LightingResults: New page: Lighting Build
+[2022.10.22-00.41.41:962][923]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.10.22-00.41.41:965][923]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-00.41.41:965][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-00.41.41:965][923]MapCheck: New page: Map Check
+[2022.10.22-00.41.41:965][923]LightingResults: New page: Lighting Build
+[2022.10.22-00.41.42:018][923]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-00.41.42:023][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.10.22-00.41.42:116][923]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.10.22-00.41.42:117][923]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-00.41.42:117][923]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-00.41.42:117][923]LogAIModule: Creating AISystem for world Untitled_1
+[2022.10.22-00.41.42:119][923]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.22-00.41.42:168][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.10.22-00.41.42:168][923]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.22-00.41.42:169][923]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2022.10.22-00.41.42:169][923]LogFileHelpers: Loading map 'Template_Default' took 0.216
+[2022.10.22-00.41.54:747][592]Cmd: DELETE
+[2022.10.22-00.41.54:747][592]Cmd: ACTOR DELETE
+[2022.10.22-00.41.54:750][592]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.22-00.41.54:922][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.10.22-00.41.54:926][592]LogEditorActor: Deleted 1 Actors (0.178 secs)
+[2022.10.22-00.42.20:062][312]LogViewport: Scene viewport resized to 1037x902, mode Windowed.
+[2022.10.22-00.42.45:583][815]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.10.22-00.43.40:099][595]LogDerivedDataCache: C:/Users/Ali/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.152 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.22-00.46.03:102][498]Cmd: DUPLICATE
+[2022.10.22-00.46.03:102][498]Cmd: ACTOR DUPLICATE
+[2022.10.22-00.48.49:989][768]LogSlate: Window 'Save Level As' being destroyed
+[2022.10.22-00.48.50:093][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Unreal/warehouse-wreckage/WarehouseWreckage/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.22-00.48.50:216][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.10.22-00.48.50:231][768]LogSavePackage: Moving output files for package: /Game/MainMap
+[2022.10.22-00.48.50:231][768]LogSavePackage: Moving 'E:/Unreal/warehouse-wreckage/WarehouseWreckage/Saved/MainMap34A3BAE44BFE4ACA9AB7208580400BCE.tmp' to 'E:/Unreal/warehouse-wreckage/WarehouseWreckage/Content/MainMap.umap'
+[2022.10.22-00.48.50:246][768]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/MainMap_BuiltData
+[2022.10.22-00.48.50:246][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="E:/Unreal/warehouse-wreckage/WarehouseWreckage/Content/MainMap_BuiltData.uasset" SILENT=true
+[2022.10.22-00.48.50:252][768]LogSavePackage: Moving output files for package: /Game/MainMap_BuiltData
+[2022.10.22-00.48.50:252][768]LogSavePackage: Moving 'E:/Unreal/warehouse-wreckage/WarehouseWreckage/Saved/MainMap_BuiltDataD9380AB149D5FBE20E776E967980905B.tmp' to 'E:/Unreal/warehouse-wreckage/WarehouseWreckage/Content/MainMap_BuiltData.uasset'
+[2022.10.22-00.48.50:253][768]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/MainMap_BuiltData
+[2022.10.22-00.48.50:263][768]LogFileHelpers: Saving map 'MainMap' took 0.251
+[2022.10.22-00.48.50:274][768]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.22-00.48.50:274][768]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MainMap_BuiltData.MainMap_BuiltData
+[2022.10.22-00.48.50:274][768]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2022.10.22-00.49.09:492][759]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.10.22-00.50.30:254][585]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.22-00.50.30:274][585]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.22-00.50.32:489][702]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.10.22-00.51.13:054][ 67]Cmd: DUPLICATE
+[2022.10.22-00.51.13:055][ 67]Cmd: ACTOR DUPLICATE
+[2022.10.22-00.51.19:325][434]Cmd: DUPLICATE
+[2022.10.22-00.51.19:325][434]Cmd: ACTOR DUPLICATE
+[2022.10.22-00.51.27:718][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Unreal/warehouse-wreckage/WarehouseWreckage/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.22-00.51.27:825][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.10.22-00.51.27:840][769]LogSavePackage: Moving output files for package: /Game/MainMap
+[2022.10.22-00.51.27:841][769]LogSavePackage: Moving 'E:/Unreal/warehouse-wreckage/WarehouseWreckage/Saved/MainMap839D0DAE49DA8152D2EB9F8E0F031D3D.tmp' to 'E:/Unreal/warehouse-wreckage/WarehouseWreckage/Content/MainMap.umap'
+[2022.10.22-00.51.27:852][769]LogFileHelpers: No new changes to save!
+[2022.10.22-00.51.27:879][769]AssetCheck: New page: Asset Save: MainMap
+[2022.10.22-00.51.27:879][769]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
