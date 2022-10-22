@@ -3788,3 +3788,29 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.22-01.01.15:062][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.10.22-01.01.15:066][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
 [2022.10.22-01.01.15:099][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.10.22-01.11.10:324][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.10.22-01.11.10:328][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Unreal/warehouse-wreckage/WarehouseWreckage/Saved/Autosaves/Game/MainMap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.22-01.11.10:347][883]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainMap_Auto6
+[2022.10.22-01.11.10:347][883]LogSavePackage: Moving 'E:/Unreal/warehouse-wreckage/WarehouseWreckage/Saved/MainMap_Auto6914E942946AF6A0FF3661C89AAEFC2E2.tmp' to 'E:/Unreal/warehouse-wreckage/WarehouseWreckage/Saved/Autosaves/Game/MainMap_Auto6.umap'
+[2022.10.22-01.11.10:354][883]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainMap' took 0.105
+[2022.10.22-01.11.10:354][883]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.105
+[2022.10.22-01.11.15:868][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Unreal/warehouse-wreckage/WarehouseWreckage/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.22-01.11.15:918][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.22-01.11.15:941][911]LogSavePackage: Moving output files for package: /Game/MainMap
+[2022.10.22-01.11.15:942][911]LogSavePackage: Moving 'E:/Unreal/warehouse-wreckage/WarehouseWreckage/Saved/MainMapB00BA5B240769C81C654FF9048ABC3C3.tmp' to 'E:/Unreal/warehouse-wreckage/WarehouseWreckage/Content/MainMap.umap'
+[2022.10.22-01.11.15:954][911]LogFileHelpers: No new changes to save!
+[2022.10.22-01.11.15:981][911]AssetCheck: New page: Asset Save: MainMap
+[2022.10.22-01.11.15:981][911]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2022.10.22-01.12.34:348][427]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2022.10.22-01.12.34:348][427]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2022.10.22-01.12.34:348][427]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01 as actor: StaticMeshActor /Game/MainMap.MainMap:PersistentLevel.StaticMeshActor_0
+[2022.10.22-01.12.36:167][532]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2022.10.22-01.12.36:167][532]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2022.10.22-01.12.36:169][532]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01 as actor: StaticMeshActor /Game/MainMap.MainMap:PersistentLevel.StaticMeshActor_2
+[2022.10.22-01.14.35:511][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Unreal/warehouse-wreckage/WarehouseWreckage/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.22-01.14.35:567][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.10.22-01.14.35:587][326]LogSavePackage: Moving output files for package: /Game/MainMap
+[2022.10.22-01.14.35:588][326]LogSavePackage: Moving 'E:/Unreal/warehouse-wreckage/WarehouseWreckage/Saved/MainMapEFE39CAF48A0B6497D4DCA88AA8123D4.tmp' to 'E:/Unreal/warehouse-wreckage/WarehouseWreckage/Content/MainMap.umap'
+[2022.10.22-01.14.35:600][326]LogFileHelpers: No new changes to save!
+[2022.10.22-01.14.35:624][326]AssetCheck: New page: Asset Save: MainMap
+[2022.10.22-01.14.35:624][326]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
